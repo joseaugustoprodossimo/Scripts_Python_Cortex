@@ -1,0 +1,16 @@
+{
+    "email": "joel@lucidworks.com",
+    "status_sintaxe": "The Email Address Syntax is correct",
+    "status_conexao": "Connect to aspmx.l.google.com succeeded",
+    "status_validade": "joel@lucidworks.com seems to be valid",
+    "provedor": "lucidworks.com",
+    "_metadata": {
+        "input": {
+            "email": "joel@lucidworks.com"
+        },
+        "timestamp": "2022-03-21T10:11:58.515280201",
+        "id": "joel@lucidworks.com",
+        "source": "VALIDATEEMAILADRESS",
+        "cycle": "2022-03-21"
+    }
+}
